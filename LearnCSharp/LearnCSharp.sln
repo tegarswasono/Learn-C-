@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnCSharp", "LearnCSharp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutputCSharp", "..\InputOutputCSharp\InputOutputCSharp.csproj", "{C5471DD6-732C-4E65-88AE-8A308D9CF29C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExplicitOperator", "..\ExplicitOperator\ExplicitOperator.csproj", "{1F16FACF-8725-413B-9471-CCD10F7B6E9C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C5471DD6-732C-4E65-88AE-8A308D9CF29C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C5471DD6-732C-4E65-88AE-8A308D9CF29C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C5471DD6-732C-4E65-88AE-8A308D9CF29C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F16FACF-8725-413B-9471-CCD10F7B6E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F16FACF-8725-413B-9471-CCD10F7B6E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F16FACF-8725-413B-9471-CCD10F7B6E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F16FACF-8725-413B-9471-CCD10F7B6E9C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
