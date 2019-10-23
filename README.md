@@ -6,6 +6,3 @@
   <li>Explicit Operator</li>
   <li>Extension Method</li>
 </ol>
-
-<br/><hr/>
-- Love Code
