@@ -20,6 +20,9 @@ namespace ExtensionMethod
             string number = "5";
             long? resultLong = number.changeStringToBeLong();
 
+            string text = "Saya sedang makan nasi di dapur";
+            string result2= text.TakeLeft(10);
+
             Console.ReadLine();
         }
     }

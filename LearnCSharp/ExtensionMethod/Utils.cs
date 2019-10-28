@@ -31,5 +31,17 @@ namespace ExtensionMethod
             }
             return Convert.ToInt64(number);
         }
+
+        public static string TakeLeft(this string text, int length)
+        {
+            if (text == string.Empty)
+                return text;
+
+            if (text.Length <= length)
+                return text;
+
+            var result = text.Substring(0, length);
+            return result;
+        }
     }
 }
